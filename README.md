@@ -43,14 +43,14 @@ Posters - Used API request via TMDB to fetch poster
 
 ### Relationship between movies popularity over the years - increased movies popularity over the years.
 
-![Tableau](https://github.com/wase3m/Mid-Term_Project/blob/main/photos/Movies(1).png)
+![Tableau](https://github.com/wase3m/Mid-Term_Project/blob/main/photos/Movies%20(1).png)
 
 ### Relationship between movies popularity and movies budget - proportional relationship
 
-![Tableau](https://github.com/wase3m/Mid-Term_Project/blob/main/photos/Movies(2).png)
+![Tableau](https://github.com/wase3m/Mid-Term_Project/blob/main/photos/Movies%20(2).png)
 
 ### Relationship between movies popularity and runtime - popularity between 80 min - 180 min
-![Tableau](https://github.com/wase3m/Mid-Term_Project/blob/main/photos/Movies(3).png)
+![Tableau](https://github.com/wase3m/Mid-Term_Project/blob/main/photos/Movies%20(3).png)
 
 ### Relationship between movies popularity and movies Revenues - proportional relationship
 
