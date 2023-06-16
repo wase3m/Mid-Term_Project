@@ -32,3 +32,31 @@ Recommend - Created a function to recommend the closest 5 results on basis of ve
 
 ![Jupyter notebook](https://github.com/wase3m/Mid-Term_Project/blob/main/photos/Midterm1.png)
 
+### Interface
+Local Host - Used StreamLit library to create and customize localhost page
+Data Dump - Used Pickle library to dump dataframe created to localhost page 
+Posters - Used API request via TMDB to fetch poster
+
+![StreamLit](https://github.com/wase3m/Mid-Term_Project/blob/main/photos/Midterm2.png)
+
+## Tableau/Results
+
+### Relationship between movies popularity over the years - increased movies popularity over the years.
+
+![Tableau](https://github.com/wase3m/Mid-Term_Project/blob/main/photos/Movies(1).png)
+
+### Relationship between movies popularity and movies budget - proportional relationship
+
+![Tableau](https://github.com/wase3m/Mid-Term_Project/blob/main/photos/Movies(2).png)
+
+### Relationship between movies popularity and runtime - popularity between 80 min - 180 min
+![Tableau](https://github.com/wase3m/Mid-Term_Project/blob/main/photos/Movies(3).png)
+
+### Relationship between movies popularity and movies Revenues - proportional relationship
+
+![Tableau](https://github.com/wase3m/Mid-Term_Project/blob/main/photos/Movies.png)
+
+### CHALLENGES
+Making a model
+Visualization
+Using new libraries for interface
