@@ -58,5 +58,7 @@ Posters - Used API request via TMDB to fetch poster
 
 ### CHALLENGES
 Making a model
+
 Visualization
+
 Using new libraries for interface
